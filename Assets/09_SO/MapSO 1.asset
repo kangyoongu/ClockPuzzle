@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb7f023f5b9b3f0429727ce8a33ad449, type: 3}
+  m_Name: MapSO 1
+  m_EditorClassIdentifier: 
+  width: 10
+  height: 10
+  materials:
+  - {fileID: 2100000, guid: 35e3bfac3afa19c49934071c5192bdc2, type: 2}
+  - {fileID: 2100000, guid: 6235a036a62534847910c8a055d36afe, type: 2}
+  - {fileID: 2100000, guid: d3696709534e39c4689f95a87477f975, type: 2}
+  - {fileID: 2100000, guid: f2aab4ce4c6dca946a0dd24d5679f351, type: 2}
+  - {fileID: 2100000, guid: 13f5e80bea358c34e97b2a93ec75ca3d, type: 2}
+  - {fileID: 2100000, guid: cd7adaa65879d8047b645badcfc6e7a3, type: 2}
+  - {fileID: 2100000, guid: 487d52a231ba8e545854921d2dd55abb, type: 2}
+  - {fileID: 2100000, guid: b6dcb5cb4edf7c64abb8d0a2653ad065, type: 2}
+  - {fileID: 2100000, guid: dc7bd4b5f24d0f849a391718510cc74d, type: 2}
+  texture: {fileID: 2800000, guid: cf13fc611c901f34c9f7134107d4acfc, type: 3}
